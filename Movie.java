@@ -57,5 +57,5 @@ public class Movie
     if ((rating + r >= 0) && (rating + r <= 10))
       rating += r;
   }
-
+//would basically change rating afterwards
 }
