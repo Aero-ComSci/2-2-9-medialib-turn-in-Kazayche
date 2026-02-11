@@ -79,7 +79,7 @@ public class MediaLib
     return numSongs;
   }
   //tostring method used here to say if it is not found, it will be added to the dataset and be returned
-  public String toString() 
+  public String toString()     //adjusts formatting of the output to look more clean for the user and to as well include proper information for the user. 
   {
     String info = "";
     
